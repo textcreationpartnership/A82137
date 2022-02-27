@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the county of Dorset, shewing their content to joyn with other counties in this loyall work of redeeming his majesty, and setling the kingdom.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82137</idno>
+            <idno type="STC">Wing D661</idno>
+            <idno type="STC">Thomason E447_26</idno>
+            <idno type="STC">ESTC R204954</idno>
+            <idno type="EEBO-CITATION">99864402</idno>
+            <idno type="PROQUEST">99864402</idno>
+            <idno type="VID">161816</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161816)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 71:E447[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the county of Dorset, shewing their content to joyn with other counties in this loyall work of redeeming his majesty, and setling the kingdom.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 15 London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Dorset (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161816:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE COUNTY OF DORSET, Shewing their conſent to joyn with other Counties in this Loyall work of redeeming his Majeſty, and ſetling the Kingdom.</p>
+            <p>
+               <add>June 15 London</add> Printed in the yer<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161816:2"/>
+            <pb n="1" facs="tcp:161816:2"/>
+            <head>THE DECLARATION of the County of <hi>Dorſet,</hi> ſhewing their conſent to joyn with other Counties in this Loyall work of redeeming his Majeſty and ſetling <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Kingdom.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE the ſurviving Inhabitants of the much deſpiſed and di<g ref="char:EOLhyphen"/>ſtreſſed County of Dorſet, having like the reſt of the Kingdome, long groaned un<g ref="char:EOLhyphen"/>der the oppreſſing tyranny of thoſe whom We deputed for our redeemers. And being for<g ref="char:EOLhyphen"/>merly too impatient, ſought wayes of redreſſe, but proved unſucceſſefull. Nor could We now imagine any hopes of a Iubile; did We not ſee out fellow Counties (who have former<g ref="char:EOLhyphen"/>ly been too inſenſible of Our miſery and their Own dangers) throwing down their Iſsakers burthen and unanimouſly lending their hands to wreſt Our Sove<g ref="char:EOLhyphen"/>raign from the jawes of Rebellion and Treaſon; and vindicating Our gaſping lawes and liberties, from the unrelenting tyranny of thoſe that would bury Both in the Golgoth<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of their lawleſſe wills.</p>
+            <pb n="2" facs="tcp:161816:3"/>
+            <p> And though diſtance and remoteneſſe hinders us from performing the Ceremony of a Petition, to tra<g ref="char:EOLhyphen"/>vell ſo far for a few diſſembled thanks from a Member of the houſe, of the ayery promiſes of (ſhall be.) Yet we think fit to certifie our fel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow Subjects of our un<g ref="char:EOLhyphen"/>doubted readineſſe, with life and eſtates to ſecond the Loyall endeavours of any that labour for the reſtitu<g ref="char:EOLhyphen"/>tion of Proteſtancy, there inſtatement of his Roy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll Majeſty unto his primitive ſplendor and greatneſſe; and the eſtabliſhing an inviolable and well grounded Peace in all his Majeſties Dominions.</p>
+            <p>'Tis not to be expected that We ſholud travell ſo <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r with a formall petition in our hands to ſee the two Houſes, or to take Paines to be ſcoffed at, or ſlighted, or cudgeld back. For experience hath taught us, that we have been fools too long to worſhip &amp; deify thoſe that are but our Truſtees and Deputies, by petitio<g ref="char:EOLhyphen"/>ning them for that which they know is our own, and thoſe inſulters take pride either to delay or deny. See<g ref="char:EOLhyphen"/>ing therefore we perceive by your fruitleſſe examples; that t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey are inexorable, and will do nothing for us, we thought fit to declare to the wo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld what we m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an to doe for our ſelves, and the Kingdom.</p>
+            <p n="1">1. Therefore, we demand a ſpeedy retroduction of our impriſoned King, to ſit perſonally in the houſe of Peers, that the ſu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ream Court of the Kingdome may not be any longer a <hi>Ludibruco</hi> to the people, and be called a Maſter without a head.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:161816:3"/> 2 That the government of the Church may <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e firſt ſetled by the adviſe of a new aſſembly of Proteſtant Divines to be indifferently choſen<g ref="char:punc">▪</g> by the Clergy of each County or Dioceſſe, and thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Synod, that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave ſate ſo long to ſo little purpoſe, unleſſe to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct the wils of thoſe that pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k'd them, may be ſent home to their Lectures. and the 4. ſh. <hi>pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>em,</hi> conferred on thoſe that have more need on't, and better deſerve it.</p>
+            <p n="3">3. That the Common birth right of us all, the Lawes may be reſtored to their former purity, and that we may enjoy them without the corrup Gloſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s and Comments of their Arbitr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry Po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, or the unequal Ordinances and practiſes between them and their Committees.</p>
+            <p n="4">4 T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at our Liberties (the purchaſe of our aunceſtors blood) may be redeemed <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ro<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l former infrin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<g ref="char:EOLhyphen"/>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts, and preſerved <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>encefor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h inviol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble, and t<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t our ancient liberties may not lie at the mercy of thoſe that have none, not be enlarged and re<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ealed by the votes and revotes of thoſe that have taken too much liberty to deſtroy the Subjects.</p>
+            <p n="5">
+               <pb n="4" facs="tcp:161816:4"/> 5 That we may have a ſpeedie and juſt accompt of all our moneyes, and eſtates cheated or wreſted from us; by loanes, contributions, taxes, fines, exciſe, or plun<g ref="char:EOLhyphen"/>der, and that the eſtates of Committees, Sequeſtrators and all State officers, (being lately purchaſed and rai<g ref="char:EOLhyphen"/>ſed out of the ruines of honeſt and loyal ſubjects) may be reſequeſtred, and be made lyable to give us and the kingdom ſatisfaction.</p>
+            <p n="6">6 That Our Knights and Burgeſſes may be recalled, as having broken their truſt repoſed by Vs, in them, and that we may have free power and liberty to make a new choyce of ſuch Patriots, as We ſhall have juſt cauſe to repoſe things of ſuch moment, as Our lives and fortunes, and the power of making the Kingdom happy, or miſerable, into their hands.</p>
+            <p n="7">7 That wee may no longer ſubjugate our necks to the boundleſſe luſts, and unlimited power of beggerly and broken Committees, conſiſting generally of the taile of gentry, men of ruinous fortunes, and deſpicable e<g ref="char:EOLhyphen"/>ſtates, whoſe inſatiate deſires, hungry with their fre<g ref="char:EOLhyphen"/>quent wants, prompts them to continuall projects of pilling and ſtripping us, to repayre themſelves. Nor be awed by their Emiſsaries; who are generally the moſt ſherking, and cunning beggers that can be picked out of a County.</p>
+            <p n="8">8 That inſtead thereof we may be governed in Milita<g ref="char:EOLhyphen"/>ry affaires, and Civill, by men of viſible eſtates, and of
+<pb n="5" facs="tcp:161816:4"/>unqueſtioned repute, welbeloved by us; ſuch whoſe degree and condition may make them aſsume places of authority and truſt, out of nobleneſse of mind and love to their Countrey, and not to reedifie their de<g ref="char:EOLhyphen"/>lapidated fortunes.</p>
+            <p n="9">9 That the late imperious Governour of <hi>Lyme</hi> and o<g ref="char:EOLhyphen"/>ther of his office, &amp; broken condition, may be no more ſheltred under the wings of a member-ſhip to glory in the innocent blood of well-meaning Countrey-men he hath ſo unjuſtly ſpilt; nor live upon the eſtates which they have thieviſhly taken from the right owners, but that they may be expoſed to the equall <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of the known Lawes, that we may freely right our ſelves, and each of us fetch back a ſtoln feather.</p>
+            <p n="10">10 And laſtly, that all thoſe among us who have been ſequeſtred, impriſoned, plundred, or fined, or any way abuſed, and ſtripped of our eſtates, for our alleageance and loyall adherence to his Majeſty, may be reſtored to our eſtates, without any more compoſitions, and may have leave to take any legall courſe for due repa<g ref="char:EOLhyphen"/>ration.</p>
+            <p>Theſe are our joynt deſires which we would have moulded into a Petition, but that we hear of the ſuc<g ref="char:EOLhyphen"/>ceſse, unnaturall uſage of our fellow Subjects on the like occaſion; of which the King cannot in duty but be ſenſible. This made us turn our petitionary reſolves into reſolute demands and propoſitions of which we expect ſatisfactory grants, and do hereby declare, that
+<pb n="6" facs="tcp:161816:5"/>as heretofore on leſſe encouragement, we engaged our lives, liberties, and eſtates, on the ſame grounds, un<g ref="char:EOLhyphen"/>der the ſlighted and unproſperous notion of club-men. Notwithſtanding our ſufferings therefore, out ends are ſtill the ſame, and our endeavours ſhall bee now vigorous and active, and we doubt not (by Gods and your aſſiſtance) more proſperous and ſucceſſefull.</p>
+            <closer>
+               <signed>Subſcribed by above 10000 Inhabi<g ref="char:EOLhyphen"/>tants of that County.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
